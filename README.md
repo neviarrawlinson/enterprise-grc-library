@@ -1,6 +1,6 @@
 # Enterprise GRC Library
 
-A curated collection of enterprise-grade Governance, Risk, and Compliance (GRC) artifacts — including templates, policies, checklists, and dashboards — designed for real-world audit readiness and operational governance.
+A curated collection of enterprise-grade Governance, Risk, and Compliance (GRC) artifacts — including templates, policies, checklists, training materials, and frameworks — designed for real-world audit readiness and operational governance.
 
 ---
 
@@ -13,29 +13,35 @@ A curated collection of enterprise-grade Governance, Risk, and Compliance (GRC) 
 
 ### Checklists
 - [`soc2-readiness-checklist.md`](checklists/soc2-readiness-checklist.md)  
-- `security-audit-checklist.md` *(coming soon)*  
-- `grc-onboarding-checklist.md` *(coming soon)*
+- [`change-management-checklist.md`](checklists/change-management-checklist.md)
 
 ### Policies
 - [`acceptable-use-policy.md`](policies/acceptable-use-policy.md)  
-- [`data-retention-policy.md`](policies/data-retention-policy.md)  
-- `change-management-policy.md` *(coming soon)*
+- [`data-retention-policy.md`](policies/data-retention-policy.md)
 
-### Dashboards
-- `risk-dashboard-outline.md` *(coming soon)*  
-- `policy-compliance-kpi.md` *(coming soon)*
+### Frameworks
+- [`iso27001-annex-a-summary.md`](frameworks/iso27001-annex-a-summary.md)
 
-### References
-- `iso27001-control-mapping.md` *(coming soon)*  
-- `nist-csf-framework-essentials.md` *(coming soon)*
+### Audits
+- [`pbc-tracker-template.md`](audits/pbc-tracker-template.md)
+
+### Toolkits
+- [`grc-policy-bundle.md`](toolkits/grc-policy-bundle.md)
+
+### Training
+- [`change-management-training-outline.md`](training/change-management-training-outline.md)
+
+### Meta
+- [`CONTRIBUTING.md`](.github/contributing.md)  
+- Issue Templates: [`bug_report.md`](.github/ISSUE_TEMPLATE/bug_report.md) | [`feature_request.md`](.github/ISSUE_TEMPLATE/feature_request.md)
 
 ---
 
 ## Who This Library Is For
 
-- GRC Analysts and IT Auditors
-- Compliance Managers and CISOs
-- Startups preparing for SOC 2 or ISO 27001
+- GRC Analysts and IT Auditors  
+- Compliance Managers and CISOs  
+- Startups preparing for SOC 2 or ISO 27001  
 - Anyone building an internal governance function from scratch
 
 ---
@@ -49,12 +55,4 @@ A curated collection of enterprise-grade Governance, Risk, and Compliance (GRC) 
 
 ---
 
-## Coming Soon
-
-- AI-powered policy generation tools  
-- Policy-as-Code YAML samples  
-- Confluence/SharePoint-ready import versions
-
----
-
-Made with ✨ by [Neviar Rawlinson](https://www.linkedin.com/in/neviarr/)  
+Made with ✨ by [Neviar Rawlinson](https://www.linkedin.com/in/neviarr/)
