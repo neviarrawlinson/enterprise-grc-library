@@ -31,8 +31,7 @@ A curated collection of enterprise-grade Governance, Risk, and Compliance (GRC) 
 ### Training
 - [`change-management-training-outline.md`](training/change-management-training-outline.md)
 
-## Learning and Career Development
-
+### Learning and Career Development
 - [GRC Learning Resources](training/grc-learning-resources.md)
 
 ### Meta
