@@ -1,66 +1,41 @@
 # Enterprise GRC Library
 
-A curated collection of enterprise-grade Governance, Risk, and Compliance (GRC) artifacts — including templates, policies, checklists, training materials, and frameworks — designed for real-world audit readiness and operational governance.
+A curated repository of templates, checklists, policies, and tools for Governance, Risk, and Compliance (GRC) professionals. Built for real-world use across audits, security reviews, and compliance programs.
 
 ---
 
-## Table of Contents
+## Repository Structure
 
-### Templates
-- [`risk-register-template.md`](templates/risk-register-template.md)  
-- [`vendor-risk-assessment-template.md`](templates/vendor-risk-assessment-template.md)  
-- [`incident-response-template.md`](templates/incident-response-template.md)
+### Templates/
+- [Risk Register Template](templates/risk-register-template.md)
+- [Change Management Checklist](templates/change-management-checklist.md)
+- [Incident Response Template](templates/incident-response-template.md)
+- [Vendor Risk Assessment Template](templates/vendor-risk-assessment-template.md)
+- [SOC 2 Readiness Checklist](templates/soc2-readiness-checklist.md)
+- [Acceptable Use Policy](templates/acceptable-use-policy.md)
+- [Data Retention Policy](templates/data-retention-policy.md)
 
-### Checklists
-- [`soc2-readiness-checklist.md`](checklists/soc2-readiness-checklist.md)  
-- [`change-management-checklist.md`](checklists/change-management-checklist.md)
-
-### Policies
-- [`acceptable-use-policy.md`](policies/acceptable-use-policy.md)  
-- [`data-retention-policy.md`](policies/data-retention-policy.md)
-
-### Frameworks
-- [`iso27001-annex-a-summary.md`](frameworks/iso27001-annex-a-summary.md)
-
-### Audits
-- [`pbc-tracker-template.md`](audits/pbc-tracker-template.md)
-
-### Control Mapping
-
-- [ISO 27001 to NIST CSF Mapping](control-mapping/iso27001-nist-csf-mapping.md)
-- [ISO 27001 Annex A vs NIST 800-53](control-mapping/iso27001-annex-a-vs-nist-800-53.md)
-
-### Toolkits
-- [`grc-policy-bundle.md`](toolkits/grc-policy-bundle.md)
-
-### Training
-- [`change-management-training-outline.md`](training/change-management-training-outline.md)
-
-### Learning and Career Development
+### Training/
 - [GRC Learning Resources](training/grc-learning-resources.md)
 
-### Meta
-- [`CONTRIBUTING.md`](.github/contributing.md)  
-- Issue Templates: [`bug_report.md`](.github/ISSUE_TEMPLATE/bug_report.md) | [`feature_request.md`](.github/ISSUE_TEMPLATE/feature_request.md)
+### Control-mapping/
+- [ISO 27001 Annex A vs NIST 800-53](control-mapping/iso27001-annex-a-vs-nist-800-53.md)
+- [ISO 27001 vs NIST CSF Mapping](control-mapping/iso27001-nist-csf-mapping.md)
+
+### Adit-tools/
+- [Audit Readiness Checklist](audit-tools/audit-readiness-checklist.md)
+- [SOC 2 PBC Tracker](audit-tools/soc2-pbc-tracker.md)
+- [Walkthrough Interview Log](audit-tools/walkthrough-interview-log.md)
+- [Control Testing Template](audit-tools/control-testing-template.md)
 
 ---
 
-## Who This Library Is For
+## Contribution
 
-- GRC Analysts and IT Auditors  
-- Compliance Managers and CISOs  
-- Startups preparing for SOC 2 or ISO 27001  
-- Anyone building an internal governance function from scratch
+Contributions are welcome. See [.github/contributing.md](.github/contributing.md) for guidelines.
 
 ---
 
-## How to Use This Repository
+## License
 
-- Clone or download the repo  
-- Customize templates for your organization  
-- Use for audits, training, and internal documentation  
-- Contribute improvements or request new files via Issues
-
----
-
-Made with ✨ by [Neviar Rawlinson](https://www.linkedin.com/in/neviarr/)
+MIT License — see [LICENSE](LICENSE) file for details.
