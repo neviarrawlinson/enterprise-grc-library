@@ -25,6 +25,11 @@ A curated collection of enterprise-grade Governance, Risk, and Compliance (GRC) 
 ### Audits
 - [`pbc-tracker-template.md`](audits/pbc-tracker-template.md)
 
+### Control Mapping
+
+- [ISO 27001 to NIST CSF Mapping](control-mapping/iso27001-nist-csf-mapping.md)
+- [ISO 27001 Annex A vs NIST 800-53](control-mapping/iso27001-annex-a-vs-nist-800-53.md)
+
 ### Toolkits
 - [`grc-policy-bundle.md`](toolkits/grc-policy-bundle.md)
 
