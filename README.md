@@ -31,6 +31,10 @@ A curated collection of enterprise-grade Governance, Risk, and Compliance (GRC) 
 ### Training
 - [`change-management-training-outline.md`](training/change-management-training-outline.md)
 
+## Learning and Career Development
+
+- [GRC Learning Resources](training/grc-learning-resources.md)
+
 ### Meta
 - [`CONTRIBUTING.md`](.github/contributing.md)  
 - Issue Templates: [`bug_report.md`](.github/ISSUE_TEMPLATE/bug_report.md) | [`feature_request.md`](.github/ISSUE_TEMPLATE/feature_request.md)
