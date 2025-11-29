@@ -44,7 +44,7 @@ Browse templates for core GRC workflows:
 Use these starter policies to align with common compliance requirements:
 
 - [Acceptable Use Policy](policies/acceptable-use-policy.md)
-- [Data Retention Policy](templates/data-retention-policy.md)
+- [Data Retention Policy](policies/data-retention-policy.md)
 
 ---
 
