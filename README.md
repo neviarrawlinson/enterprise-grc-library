@@ -57,13 +57,14 @@ Map your GRC controls across frameworks:
 
 ---
 
-## Audit Tools and Trackers
+## Audits and Compliance Tools
 
 Access tools to manage audit readiness, compliance status, and evidence tracking:
 
-- [Audit Tracker Template](audit/audit-tracker-template.md)
-- [SOC 2 Evidence Request Tracker](audit/soc2-evidence-request-tracker.md)
-- [Policy Management Tracker](audit/policy-management-tracker.md)
+- [Audit Readiness Checklist](audits/audit-readiness-checklist.md)
+- [SOC 2 Evidence Log Template](audits/soc2-evidence-log-template.md)
+- [PBC Tracker Template](audits/pbc-tracker-template.md)
+
 
 ---
 
