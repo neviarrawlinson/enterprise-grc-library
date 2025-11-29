@@ -1,57 +1,86 @@
 # Enterprise GRC Library
 
-A curated collection of templates, checklists, policies, and tools to support enterprise-grade Governance, Risk, and Compliance (GRC) programs. Designed to help GRC professionals, IT auditors, and compliance teams establish, assess, and improve their security and governance frameworks.
+The **Enterprise GRC Library** is a curated, organized, and scalable collection of tools, templates, and resources designed to support Governance, Risk, and Compliance (GRC) programs in enterprise environments.  
+
+This project provides hands-on materials for IT governance professionals, GRC analysts, compliance leads, security auditors, and program managers working to align their organizations with frameworks like ISO 27001, NIST CSF, SOC 2, and more.
 
 ---
 
-## Repository Structure
+## Table of Contents
 
-### Templates/
+- [Overview](#overview)
+- [Templates and Checklists](#templates-and-checklists)
+- [Policy Samples](#policy-samples)
+- [Control Mapping](#control-mapping)
+- [Audit Tools and Trackers](#audit-tools-and-trackers)
+- [Training and Learning Resources](#training-and-learning-resources)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Overview
+
+This library serves as a centralized hub for practical, ready-to-use GRC artifacts. Each file can be used as a standalone reference or integrated into your organization's broader compliance and governance initiatives.  
+
+Contributions focus on simplifying risk assessments, strengthening audit readiness, and accelerating policy alignment.
+
+---
+
+## Templates and Checklists
+
+Browse templates for core GRC workflows:
+
 - [Risk Register Template](templates/risk-register-template.md)
 - [Change Management Checklist](templates/change-management-checklist.md)
 - [Incident Response Template](templates/incident-response-template.md)
 - [Vendor Risk Assessment Template](templates/vendor-risk-assessment-template.md)
 - [SOC 2 Readiness Checklist](templates/soc2-readiness-checklist.md)
+
+---
+
+## Policy Samples
+
+Use these starter policies to align with common compliance requirements:
+
 - [Acceptable Use Policy](templates/acceptable-use-policy.md)
 - [Data Retention Policy](templates/data-retention-policy.md)
 
-### Training/
+---
+
+## Control Mapping
+
+Map your GRC controls across frameworks:
+
+- [ISO 27001 Annex A vs. NIST 800-53](control-mapping/iso27001-annex-a-vs-nist-800-53.md)
+- [ISO 27001 vs. NIST Cybersecurity Framework (CSF)](control-mapping/iso27001-nist-csf-mapping.md)
+
+---
+
+## Audit Tools and Trackers
+
+Access tools to manage audit readiness, compliance status, and evidence tracking:
+
+- [Audit Tracker Template](audit/audit-tracker-template.md)
+- [SOC 2 Evidence Request Tracker](audit/soc2-evidence-request-tracker.md)
+- [Policy Management Tracker](audit/policy-management-tracker.md)
+
+---
+
+## Training and Learning Resources
+
+Explore curated study paths, free courses, and certifications to build GRC skills:
+
 - [GRC Learning Resources](training/grc-learning-resources.md)
 
-### Control-mapping/
-- [ISO 27001 Annex A vs NIST 800-53](control-mapping/iso27001-annex-a-vs-nist-800-53.md)
-- [ISO 27001 vs NIST CSF Mapping](control-mapping/iso27001-nist-csf-mapping.md)
-
-### Adit-tools/
-- [Audit Readiness Checklist](audit-tools/audit-readiness-checklist.md)
-- [SOC 2 PBC Tracker](audit-tools/soc2-pbc-tracker.md)
-- [Walkthrough Interview Log](audit-tools/walkthrough-interview-log.md)
-- [Control Testing Template](audit-tools/control-testing-template.md)
-
 ---
 
-## Who This Is For
+## Contributing
 
-- GRC Analysts, Managers, and Consultants  
-- IT Auditors and Compliance Specialists  
-- Security Teams preparing for SOC 2, ISO 27001, HIPAA, or internal audits  
-- Tech teams looking to improve governance processes  
-
----
-
-## Contribution
-
-Interested in contributing to this GRC library?  
-We welcome additions, updates, and real-world use cases.  
-Please review the [contributing guidelines](.github/contributing.md) before submitting pull requests.
+Interested in contributing? See the [contributing guidelines](.github/CONTRIBUTING.md) and feel free to submit templates, checklists, or mappings that support enterprise GRC programs.
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Maintainer: Neviar Rawlinson  
-GitHub: [@neviarrawlinson](https://github.com/neviarrawlinson)
+This repository is licensed under the [MIT License](LICENSE).
