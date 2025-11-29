@@ -32,7 +32,7 @@ Contributions focus on simplifying risk assessments, strengthening audit readine
 Browse templates for core GRC workflows:
 
 - [Risk Register Template](templates/risk-register-template.md)
-- [Change Management Checklist](templates/change-management-checklist.md)
+- [Change Management Checklist](checklists/change-management-checklist.md)
 - [Incident Response Template](templates/incident-response-template.md)
 - [Vendor Risk Assessment Template](templates/vendor-risk-assessment-template.md)
 - [SOC 2 Readiness Checklist](templates/soc2-readiness-checklist.md)
