@@ -1,4 +1,4 @@
-# 📘 Acceptable Use Policy (AUP)
+# Acceptable Use Policy (AUP)
 
 **Policy Owner**: IT Governance  
 **Last Reviewed**: {{date}}  
