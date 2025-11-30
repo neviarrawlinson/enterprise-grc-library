@@ -1,64 +1,64 @@
 # GRC Training Program
 
-Welcome to the **GRC Training Program**, a self-paced learning track designed to help aspiring professionals and career changers break into the world of Governance, Risk, and Compliance (GRC). Whether you're transitioning from a technical background, project management, or just starting out in cybersecurity, this program will walk you through real-world concepts, tools, and frameworks used in enterprise GRC roles.
+Welcome to the GRC Training Program — a practical, beginner-friendly course designed to help you break into the world of **Governance, Risk, and Compliance (GRC)**.
+
+This course is completely free and open source. All lessons are hands-on, modular, and career-focused.
 
 ---
 
-## Who This Program Is For
+## Who This Is For
 
-- Career changers exploring GRC as a new path
-- IT, cybersecurity, or audit professionals pivoting to governance
-- Entry-level learners seeking structured guidance
-- Practitioners looking to formalize their knowledge
-
-No prior GRC experience is required. This course is designed to be approachable and practical.
+- Career changers exploring cybersecurity or GRC roles
+- Junior professionals looking to upskill in audit, compliance, or governance
+- Self-taught learners who want structure, templates, and real-world examples
 
 ---
 
-## What You'll Learn
+## Learning Outcomes
 
-By the end of this program, you will:
+By the end of this program, you will be able to:
 
-- Understand the core pillars of GRC and how they support enterprise operations
-- Learn how to conduct risk assessments, build policies, and support compliance audits
-- Get familiar with major frameworks like ISO 27001, NIST CSF, and SOC 2
-- Explore career paths, tools of the trade, and how to showcase your skills
-
----
-
-## Program Structure
-
-Each module builds on the last and includes reading material, checklists, templates, and curated external resources. Start with Module 1 and work your way forward.
-
-| Module | Title |
-|--------|-------|
-| 01     | [Introduction to GRC](module-01-intro-to-grc/README.md) |
-| 02     | IT Governance Fundamentals *(coming soon)* |
-| 03     | Risk Assessments in Practice *(coming soon)* |
-| 04     | Compliance Frameworks Overview *(coming soon)* |
-| 05     | Policies, Standards, and Procedures *(coming soon)* |
-| 06     | GRC Tools, Platforms, and Automation *(coming soon)* |
-| 07     | Audits, Evidence, and PBC Tracking *(coming soon)* |
-| 08     | Building Your GRC Portfolio *(coming soon)* |
-| 09     | Career Paths and Interview Prep *(coming soon)* |
+- Understand key GRC concepts and frameworks
+- Create policies, SOPs, and compliance templates
+- Conduct risk assessments and control mappings
+- Build audit tools and GRC dashboards
+- Document change management and evidence collection
+- Prepare a full GRC portfolio on GitHub
 
 ---
 
-## How to Use This Program
+## Course Modules
 
-- Follow each module in order.
-- Download and try the included templates.
-- Use the additional resources to go deeper.
-- Apply what you learn in your own GitHub portfolio, blog, or job search.
+| Module | Title | Link |
+|--------|-------|------|
+| 01 | Introduction to GRC | [Module 1](./module-01-intro-to-grc/README.md) |
+| 02 | Governance Fundamentals | [Module 2](./module-02-governance/README.md) |
+| 03 | Risk Management & Registers | [Module 3](./module-03-risk/README.md) |
+| 04 | Compliance Frameworks | [Module 4](./module-04-frameworks/README.md) |
+| 05 | Audit Tools & PBC Trackers | [Module 5](./module-05-audit/README.md) |
+| 06 | Building a Control Library | [Module 6](./module-06-control-library/README.md) |
+| 07 | Policies, SOPs, and Documentation | [Module 7](./module-07-policies-and-sops/README.md) |
+| 08 | Audit Readiness and Evidence Collection | [Module 8](./module-08-audit-readiness/README.md) |
+| 09 | Change Management Fundamentals | [Module 9](./module-09-change-management/README.md) |
+| 10 | Dashboards & Executive Reporting | [Module 10](./module-10-dashboards/README.md) |
 
 ---
 
-## Feedback & Contributions
+## Final Project
 
-Have ideas or corrections? Open an issue or submit a pull request — this course is open source and community-supported.
+Wrap up the course by completing a **GRC Capstone Project**:
+
+📁 [Final Project →](./final-project/README.md)
 
 ---
 
 ## License
 
-This program is licensed under the [MIT License](../../LICENSE).
+This program is open source and licensed under the [MIT License](../../LICENSE). You are welcome to remix, contribute, and use it for personal or professional learning.
+
+---
+
+## Maintainer
+
+Built with ❤️ by [Neviar Rawlinson](https://github.com/neviarrawlinson)  
+For feedback, issues, or contributions — feel free to open a pull request.
