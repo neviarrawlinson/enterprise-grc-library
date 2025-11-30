@@ -1,4 +1,4 @@
-# 🗂️ Data Retention Policy
+# Data Retention Policy
 
 **Policy Owner**: IT Governance & Compliance  
 **Last Reviewed**: {{date}}  
